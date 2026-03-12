@@ -75,7 +75,7 @@ ollama serve
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mutualmind.git
+git clone https://github.com/MayankChanana-creator/Behavioral-Finance-AI
 cd mutualmind
 
 # Install dependencies
