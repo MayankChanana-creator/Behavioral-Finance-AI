@@ -8,7 +8,7 @@ An AI-powered Behavioral Finance tool that analyzes mutual fund NAV trends to pr
 
 ## 📌 Overview
 
-**Behavioral-Finance-AI** fetches live mutual fund data from the MFAPI, computes key financial metrics over a user-defined holding period, and uses a trained **Random Forest Classifier** to predict investor behaviour patterns such as *Panic Selling*, *Nervous Holding*, *Greedy Overconfidence*, and more.
+**MutualMind** fetches live mutual fund data from the MFAPI, computes key financial metrics over a user-defined holding period, and uses a trained **Random Forest Classifier** to predict investor behaviour patterns such as *Panic Selling*, *Nervous Holding*, *Greedy Overconfidence*, and more.
 
 It then passes those predictions to a **local LLM (via Ollama)** to generate human-readable behavioural explanations — without ever giving financial advice.
 
